@@ -26,7 +26,12 @@ For smu class MSDS 7331 fall 2019
 
 |Task | Status | Comments|
 |-----|------- | ------- |
-|data set selection | TODO | we 'll be discussing on monday|
+|data set selection | done | we are using Default of Credit Card Clients Dataset from kaggle. Default Payments of Credit Card Clients in Taiwan from 2005 |
 | creation of jupyter notebook | TODO | 
 
 
+## Acknowledgements
+
+Data source reference:
+
+Lichman, M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
