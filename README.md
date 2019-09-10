@@ -27,7 +27,11 @@ For smu class MSDS 7331 fall 2019
 |Task | Status | Comments|
 |-----|------- | ------- |
 |data set selection | done | we are using Default of Credit Card Clients Dataset from kaggle. Default Payments of Credit Card Clients in Taiwan from 2005 |
-| creation of jupyter notebook | TODO | 
+| Creation of jupyter notebook | done | |
+| Work on dataset |in progress| |
+| Regroup on Wednesday | TODO|
+| Complete Documentation by friday | TODO||
+| Review the work on Saturday | TODO||
 
 
 ## Acknowledgements
